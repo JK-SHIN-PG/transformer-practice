@@ -1,0 +1,31 @@
+{'save': 'example', 'gpu': '0', 'batch': 128, 'epoch': 10, 'hdim': 256, 'elayers': 3, 'dlayers': 3, 'eheads': 8, 'dheads': 8, 'eidim': 512, 'didim': 512, 'edout': 0.1, 'ddout': 0.1, 'lr': 0.0005}
+Epoch: 01 | Time: 0m 14s
+	Train Loss: 4.531 | Train PPL: 92.817
+	Validation Loss: 3.407 | Validation PPL: 30.176
+Epoch: 02 | Time: 0m 12s
+	Train Loss: 3.189 | Train PPL: 24.268
+	Validation Loss: 2.645 | Validation PPL: 14.077
+Epoch: 03 | Time: 0m 11s
+	Train Loss: 2.538 | Train PPL: 12.658
+	Validation Loss: 2.175 | Validation PPL: 8.805
+Epoch: 04 | Time: 0m 12s
+	Train Loss: 2.120 | Train PPL: 8.331
+	Validation Loss: 1.944 | Validation PPL: 6.987
+Epoch: 05 | Time: 0m 12s
+	Train Loss: 1.838 | Train PPL: 6.287
+	Validation Loss: 1.809 | Validation PPL: 6.104
+Epoch: 06 | Time: 0m 12s
+	Train Loss: 1.640 | Train PPL: 5.155
+	Validation Loss: 1.739 | Validation PPL: 5.689
+Epoch: 07 | Time: 0m 13s
+	Train Loss: 1.478 | Train PPL: 4.383
+	Validation Loss: 1.685 | Validation PPL: 5.391
+Epoch: 08 | Time: 0m 13s
+	Train Loss: 1.354 | Train PPL: 3.875
+	Validation Loss: 1.672 | Validation PPL: 5.324
+Epoch: 09 | Time: 0m 12s
+	Train Loss: 1.253 | Train PPL: 3.500
+	Validation Loss: 1.682 | Validation PPL: 5.378
+Epoch: 10 | Time: 0m 12s
+	Train Loss: 1.168 | Train PPL: 3.216
+	Validation Loss: 1.657 | Validation PPL: 5.245
